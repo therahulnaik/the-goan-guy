@@ -1,7 +1,7 @@
 # Hi, I’m Rahul Naik 👋
 
 Frontend Web Developer focused on **performance, SEO, and clean user experience**.  
-I build fast, accessible, and maintainable websites that score **95+ on Lighthouse** and feel great to use.
+I build fast, accessible, and maintainable websites that feel great to use.
 
 ---
 
@@ -32,11 +32,6 @@ I build fast, accessible, and maintainable websites that score **95+ on Lighthou
 
 ---
 
-## 📌 Featured Projects
-👉 Check my pinned repositories below — each one reflects **real-world, production-ready work**, not tutorials.
-
----
-
 ## 🌐 Find Me Online
 - 🌍 Website: https://rahulnaik.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/rahulnaik/
@@ -45,7 +40,7 @@ I build fast, accessible, and maintainable websites that score **95+ on Lighthou
 
 ## 📫 Contact
 If you’re hiring, collaborating, or need help improving web performance:  
-📧 **hello@rahulnaik.com** *(recommended)*
+📧 **rahuldnaik@yahoo.com** *(recommended)*
 
 ---
 
