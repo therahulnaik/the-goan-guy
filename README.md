@@ -34,7 +34,7 @@ I build fast, accessible, and maintainable websites that feel great to use.
 
 ## 🌐 Find Me Online
 - 🌍 Website: https://rahulnaik.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rahuldnaik/
+- 💼 LinkedIn: https://www.linkedin.com/in/therahulnaik/
 
 ---
 
